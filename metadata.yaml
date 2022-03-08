@@ -1,0 +1,26 @@
+_repo: Triste-Fim-de-Polycarpo-Quaresma_67535
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Barreto, Lima
+    gutenberg_agent_id: '54309'
+    url: http://www.gutenberg.org/2009/agents/54309
+description: ''
+gutenberg_issued: '2022-03-01'
+identifiers:
+  gutenberg: '67535'
+language: pt
+pgterms:marc904: http://objdigital.bn.br/objdigital2/acervo_digital/div_obrasraras/or22535/or22535.pdf
+pgterms:marc905: 20220225040754barreto
+pgterms:marc906: '1915'
+pgterms:marc907: BR
+production_note: Laura Natal Rodrigues (Images generously made available by the Biblioteca
+  Nacional do Brasil.)
+publication_note: Brazil :Revista dos Tribunaes,1915.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Triste Fim de Polycarpo Quaresma
+url: http://www.gutenberg.org/ebooks/67535
