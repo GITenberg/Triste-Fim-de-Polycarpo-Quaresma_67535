@@ -1,11 +1,16 @@
 _repo: Triste-Fim-de-Polycarpo-Quaresma_67535
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67535-h/images/policarpo_cover.jpg
 creator:
   author:
     agent_name: Barreto, Lima
     gutenberg_agent_id: '54309'
     url: http://www.gutenberg.org/2009/agents/54309
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67535#Triste-Fim-de-Polycarpo-Quaresma
 gutenberg_issued: '2022-03-01'
 identifiers:
   gutenberg: '67535'
